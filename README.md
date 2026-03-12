@@ -13,20 +13,20 @@ We compared traditional models using TF-IDF text representation against the stat
 * **Nina Dimovska** 
 
 ## Dataset
-We utilized the **Davidson et al. (2017) Hate Speech and Offensive Language Dataset**, which contains 24,783 labeled tweets. \
+We utilized the **Davidson et al. (2017) Hate Speech and Offensive Language Dataset**, which contains 24,783 labeled tweets. 
 - **Dataset Source:** [GitHub Link](https://github.com/t-davidson/hate-speech-and-offensive-language)
 
 ## Models Evaluated
-1. **Traditional ML:** Logistic Regression, Support Vector Machine (SVM), and Multinomial Naive Bayes. \
+1. **Traditional ML:** Logistic Regression, Support Vector Machine (SVM), and Multinomial Naive Bayes. 
 2. **Deep Learning:** DistilBERT.
 
 ## Key Files
-- `CAPSTONE_PROJECT_FINAL.ipynb`: Full Python code for data preprocessing, EDA, and model training. \
-- `Capstone Project Report.pdf`: Detailed research paper covering our methodology and findings. \
+- `CAPSTONE_PROJECT_FINAL.ipynb`: Full Python code for data preprocessing, EDA, and model training. 
+- `Capstone Project Report.pdf`: Detailed research paper covering our methodology and findings. 
 
 ## Libraries Used
 - Transformers (HuggingFace)
 - Scikit-learn
 - PyTorch
 - Pandas/NumPy
-- [cite_start]Matplotlib/Seaborn
+- Matplotlib/Seaborn
