@@ -1,7 +1,7 @@
 # Hate-Speech-Detection-ML
 Comparison of TF-IDF and DistilBERT for detecting hate speech. 
 
-# Hate Speech Detection: TF-IDF vs DistilBERT
+# Hate Speech Detection: TF-IDF vs DistilBERT 
 
 ## Project Overview
 This capstone project evaluates different machine learning approaches to differentiate between hate speech, offensive language, and neutral content on social media. \
